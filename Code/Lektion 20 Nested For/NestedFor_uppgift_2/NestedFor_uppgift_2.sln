@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedFor_uppgift_2", "NestedFor_uppgift_2\NestedFor_uppgift_2.csproj", "{39EF2CEC-B0DD-4B3F-A419-A50E70B2C075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EF2CEC-B0DD-4B3F-A419-A50E70B2C075}.Debug|x86.ActiveCfg = Debug|x86
+		{39EF2CEC-B0DD-4B3F-A419-A50E70B2C075}.Debug|x86.Build.0 = Debug|x86
+		{39EF2CEC-B0DD-4B3F-A419-A50E70B2C075}.Release|x86.ActiveCfg = Release|x86
+		{39EF2CEC-B0DD-4B3F-A419-A50E70B2C075}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
