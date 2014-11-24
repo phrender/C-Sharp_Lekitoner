@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPF_uppgift_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="225">
+    <Grid>
+
+        <!-- Labels -->
+        <Label Content="Value One:" Height="28" HorizontalAlignment="Left" Margin="0,20,0,0" Name="lbValue1" VerticalAlignment="Top" />
+        <Label Content="Value Two:" Height="28" HorizontalAlignment="Left" Margin="1,50,0,0" Name="lbValue2" VerticalAlignment="Top" />
+        <Label Content="Result:" Height="28" HorizontalAlignment="Left" Margin="1,80,0,0" Name="lbresult" VerticalAlignment="Top" />
+
+        <!-- Text boxes -->
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,22,12,0" Name="tbValue1" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="71,52,0,0" Name="tbValue2" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="71,82,0,0" Name="tbResult" VerticalAlignment="Top" Width="120" />
+        
+        <!-- Buttons -->
+        <Button Content="Addition" Height="23" HorizontalAlignment="Left" Margin="12,225,0,0" Name="btnAddition" VerticalAlignment="Top" Width="80" Click="btnAddition_Click" />
+        <Button Content="Subtraction" Height="23" HorizontalAlignment="Left" Margin="111,225,0,0" Name="btnSubtraction" VerticalAlignment="Top" Width="80" Click="btnSubtraction_Click" />
+        <Button Content="Multiplication" Height="23" HorizontalAlignment="Left" Margin="12,268,0,0" Name="btnMultiplication" VerticalAlignment="Top" Width="80" Click="btnMultiplication_Click" />
+        <Button Content="Division" Height="23" HorizontalAlignment="Left" Margin="111,268,0,0" Name="btnDivision" VerticalAlignment="Top" Width="80" Click="btnDivision_Click" />
+        <Button Content="Modulus" Height="23" HorizontalAlignment="Left" Margin="62,312,0,0" Name="btnModulus" VerticalAlignment="Top" Width="80" Click="btnModulus_Click" />
+        
+    </Grid>
+</Window>
