@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile_uppgift_2", "DoWhile_uppgift_2\DoWhile_uppgift_2.csproj", "{753B557F-1C21-41D0-8A1C-9E00996AEE8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753B557F-1C21-41D0-8A1C-9E00996AEE8A}.Debug|x86.ActiveCfg = Debug|x86
+		{753B557F-1C21-41D0-8A1C-9E00996AEE8A}.Debug|x86.Build.0 = Debug|x86
+		{753B557F-1C21-41D0-8A1C-9E00996AEE8A}.Release|x86.ActiveCfg = Release|x86
+		{753B557F-1C21-41D0-8A1C-9E00996AEE8A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
