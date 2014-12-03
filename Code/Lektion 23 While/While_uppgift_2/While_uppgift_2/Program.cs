@@ -24,12 +24,13 @@ namespace While_uppgift_2
                     Console.Clear();
                     Console.WriteLine("Welcome.");
 
-                    Console.WriteLine("a. Something!\nq. Quit");
-                    Console.Write("Choise: ");
-                    chInput = char.Parse(Console.ReadLine());
-
                     while (bContinue)
                     {
+                        Console.Clear();
+                        Console.WriteLine("a. Something!\nq. Quit");
+                        Console.Write("Choise: ");
+                        chInput = char.Parse(Console.ReadLine());
+
                         switch (chInput)
                         {
                             case 'a':
